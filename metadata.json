@@ -1,0 +1,6 @@
+{
+  "name": "AHAB Clothing | Luxury Ethiopian Fashion",
+  "description": "Production-ready luxury fashion e-commerce for AHAB Clothing, an independent Ethiopian designer brand based in Addis Ababa creating traditional and modern cultural couture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
