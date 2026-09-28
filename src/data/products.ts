@@ -1,9 +1,9 @@
 import { Product } from '../types';
 
-export const HERO_IMAGE = '/src/assets/images/ahab_hero_editorial_1790496991182.jpg';
-export const TRADITIONAL_IMG = '/src/assets/images/ahab_traditional_collection_1790497012581.jpg';
-export const WOMENS_IMG = '/src/assets/images/ahab_womens_collection_1790497025144.jpg';
-export const MENS_IMG = '/src/assets/images/ahab_mens_modern_habesha_1790497037040.jpg';
+export const HERO_IMAGE = '/images/ahab_hero_editorial_1790496991182.jpg';
+export const TRADITIONAL_IMG = '/images/ahab_traditional_collection_1790497012581.jpg';
+export const WOMENS_IMG = '/images/ahab_womens_collection_1790497025144.jpg';
+export const MENS_IMG = '/images/ahab_mens_modern_habesha_1790497037040.jpg';
 
 export const PRODUCTS: Product[] = [
   {
